@@ -141,11 +141,5 @@ yarn-error.log
 ehthumbs.db
 Thumbs.db
 
-# Chrome Extension
-manifest.json
-background.js
-content.js
-README.md
-
 # Log files
 *.log
